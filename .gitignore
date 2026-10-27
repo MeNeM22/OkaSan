@@ -1,0 +1,43 @@
+# Python
+**/.venv/
+**/__pycache__/
+**/.pytest_cache/
+**/.ruff_cache/
+*.py[cod]
+
+# Node.js
+**/node_modules/
+**/dist/
+
+# Secrets
+**/.env
+**/.env.*
+!**/.env.example
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store# Python
+**/.venv/
+**/__pycache__/
+**/.pytest_cache/
+**/.ruff_cache/
+*.py[cod]
+
+# Node.js
+**/node_modules/
+**/dist/
+
+# Secrets
+**/.env
+**/.env.*
+!**/.env.example
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
